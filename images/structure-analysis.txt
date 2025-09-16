@@ -1,0 +1,17 @@
+Document Outline (structure.html)
+- H1: Comp 484
+  - H2: Structuring Pages
+    - H3: Conveying meaning through structure
+    - H3: Sectioning elements
+    - H3: Document outlines
+      - H4: W3C Warning
+    - H3: WAI-ARIA Roles
+
+Landmarks detected:
+- header: True
+- nav: True
+- main: True
+- footer: True
+- aside: 1
+- article: 1
+- section: 3
